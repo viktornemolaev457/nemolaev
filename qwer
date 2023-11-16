@@ -1,0 +1,9 @@
+contracts = {
+    'ethereum': '0x178608fFe2Cca5d36f3Fc6e69426c4D3A5A74A41', 
+    'optimism': '0x178608fFe2Cca5d36f3Fc6e69426c4D3A5A74A41', 
+    'bsc': '0x250c34D06857b9C0A036d44F86d2c1Abe514B3Da', 
+    'polygon': '0x178608fFe2Cca5d36f3Fc6e69426c4D3A5A74A41', 
+    'arbitrum': '0x250c34D06857b9C0A036d44F86d2c1Abe514B3Da', 
+    'avalanche': '0x178608fFe2Cca5d36f3Fc6e69426c4D3A5A74A41', 
+    'base': '0x178608fFe2Cca5d36f3Fc6e69426c4D3A5A74A41',
+    'zora': '0x178608fFe2Cca5d36f3Fc6e69426c4D3A5A74A41',
